@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated data
+*.csv
+
+# OCR cache
+ocr_cache/
+
+# Local configuration
+config.py
+
+# PDFs and reports
+PDF/
+Reports/
+Export/
+
+# OS files
+.DS_Store
+Thumbs.db
