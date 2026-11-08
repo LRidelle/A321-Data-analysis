@@ -246,7 +246,6 @@ Although the parsers have been validated on a large number of production reports
 
 Developed by Louis Ridelle with AI-assisted support.
 
----
 
 ## Copyright
 
