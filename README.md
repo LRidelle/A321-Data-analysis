@@ -238,19 +238,26 @@ The source code does not include production reports, engineering drawings, custo
 
 Users of this project are responsible for ensuring that any reports, datasets, screenshots, or generated outputs shared outside their organization have been appropriately reviewed and anonymized where required.
 
+---
+
 ## Author
 
 This project was designed to automate the extraction and consolidation of large quantities of dimensional inspection data from A321 flap manufacturing reports, enabling faster analysis and process monitoring.
 
-Although the parsers have been validated on a large number of production reports, the generated datasets should be considered as engineering support data. Manual verification remains recommended, as report format variations may occasionally lead to missing or incorrectly interpreted values.
+Although the parsers have been validated on a large number of production reports, the generated datasets should be considered engineering support data. Manual verification remains recommended, as report format variations may occasionally lead to missing or incorrectly interpreted values.
 
 Developed by Louis Ridelle with AI-assisted support.
 
+---
 
 ## Copyright
 
-© 2026 LRidelle
+© 2026 Louis Ridelle
 
 All rights reserved.
 
-This repository and its contents are intended for internal development purposes. No production reports, engineering data or proprietary manufacturing information are included.
+This repository and its contents are intended for internal development and demonstration purposes.
+
+No production reports, engineering data, customer information, or proprietary manufacturing records are included in this repository.
+
+Unauthorized redistribution, reproduction, or commercial use of this codebase without prior permission from the author is prohibited.
